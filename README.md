@@ -1,5 +1,8 @@
 # SD건담외전2 원탁의 기사 한글패치
 
+[Link](https://godbibim.netlify.app/hangul/sd-gundam-gaiden-2-entaku-no-kishi-patch/)
+
+
 ## 🏛️ License
 
 A. 원칙적으로, 해당기종에 원본 롬 카트리지를 보유한 분이 개인적으로만 이용한다는 전제 하에 본 한글패치 파일을 다운로드할 수 있습니다.
@@ -13,4 +16,3 @@ D. 본 한글패치 파일을 이용하여 금전적 이득을 취하는 모든 
 E. 원저작자, 유통사, 또는 기관의 요청이 있을 경우 해당 글은 블라인드 처리가 될 수 있습니다.
 
 
-https://majesoba.github.io/hangul/sd-gundam-gaiden-2-entaku-no-kishi-patch
