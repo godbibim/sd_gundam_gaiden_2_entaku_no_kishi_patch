@@ -1,6 +1,6 @@
 # SD건담외전2 원탁의 기사 한글패치
 
-[Link](https://godbibim.netlify.app/hangul/sd-gundam-gaiden-2-entaku-no-kishi-patch/)
+[Link](https://godbibim.vercel.app/blog/sd_gundam_gaiden_001)
 
 
 ## 🏛️ License
